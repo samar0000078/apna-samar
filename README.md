@@ -1,2 +1,2 @@
 # apna-samar
-this is  my firts git respository. 
+this is  my first git respository. 
