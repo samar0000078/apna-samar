@@ -1,2 +1,3 @@
 # apna-samar
-this is  my first git respository. 
+This is  my first git respository. 
+Author - Samar
